@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1017386768246-ns5fa84qdhpdathr93ohs1731l7lk3bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiots.MelvinGPT",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
           "client_id": "1017386768246-tiofo4phserkm3ka1qhuvo9h2t3afk6s.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -22,7 +30,7 @@
           }
         },
         {
-          "client_id": "1017386768246-2phrqqsjc8hl1a9jso9vmlae4hvq6f87.apps.googleusercontent.com",
+          "client_id": "1017386768246-9btia1d341lubd7akgbj7ocueu2srbje.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -37,6 +45,13 @@
             {
               "client_id": "1017386768246-2phrqqsjc8hl1a9jso9vmlae4hvq6f87.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "1017386768246-mkppivos97d4n552qreejjmm9k9af5j3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webiots.MelvinGPT"
+              }
             }
           ]
         }
