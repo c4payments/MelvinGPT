@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1017386768246",
+    "project_id": "melvingpt1",
+    "storage_bucket": "melvingpt1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017386768246:android:c531488df068bcc539cc57",
+        "android_client_info": {
+          "package_name": "com.webiots.MelvinGPT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017386768246-tiofo4phserkm3ka1qhuvo9h2t3afk6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webiots.MelvinGPT",
+            "certificate_hash": "fbc8d77b61da3905550de89cc4b603e14238d234"
+          }
+        },
+        {
+          "client_id": "1017386768246-2phrqqsjc8hl1a9jso9vmlae4hvq6f87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg09BAxwpDjivniuDR4MQxDYDlpb53J-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017386768246-2phrqqsjc8hl1a9jso9vmlae4hvq6f87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
